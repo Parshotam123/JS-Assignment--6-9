@@ -1,5 +1,6 @@
 // JavaScript Assignments
-
+// Saylani Web 17
+// Chapter 6-9
 
 // Question #1
 

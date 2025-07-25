@@ -1,3 +1,6 @@
+// JavaScript Assignments
+
+
 // Question #1
 
 document.write("<b>Question #1 Answer</b>"+"<br>"+"<br>");
